@@ -1,5 +1,5 @@
-SMART INDIA HACKATHON 17 & TECHNOMENTUM 17
-------------------------------------------
+Smart India Hackathon17 & Technomentum17
+----------------------------------------
 Problem Statement:
 ------------------
 **The objective was to develop Attractive Website Design with Innovative Ideas.**

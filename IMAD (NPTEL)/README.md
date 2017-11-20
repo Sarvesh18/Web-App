@@ -1,5 +1,5 @@
-INTRODUCTION TO MOBILE APPLICATION DEVELOPMENT (IMAD) - NPTEL & Hasura
----------------------------------------------------------------------- 
+Introduction to Mobile Application Development(IMAD)-NPTEL & Hasura
+-------------------------------------------------------------------
 Problem Statement:
 ------------------
 **The objective was to develop Blogging Website Design with Personal Profile.**

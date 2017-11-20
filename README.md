@@ -1,17 +1,17 @@
-INTRODUCTION TO MOBILE APPLICATION DEVELOPMENT (IMAD) - NPTEL & Hasura
-----------------------------------------------------------------------
+Introduction to Mobile Application Development(IMAD)-NPTEL & Hasura
+-------------------------------------------------------------------
 **The objective was to develop Blogging Website Design with Personal Profile.**
 <br>
 <br>
-![YouTube](https://www.youtube.com/watch?v=zlQFir4VW7U)
+[YouTube](https://www.youtube.com/watch?v=zlQFir4VW7U)
 <hr>
 
-SMART INDIA HACKATHON 17 & TECHNOMENTUM 17
-------------------------------------------
+Smart India Hackathon17 & Technomentum17
+----------------------------------------
 **The objective was to develop Attractive Website Design with Innovative Ideas.**
 <br>
 <br>
-![YouTube](https://www.youtube.com/watch?v=zlQFir4VW7U)
+[YouTube](https://www.youtube.com/watch?v=zlQFir4VW7U)
 <hr>
 
 Exalatic.com
@@ -19,7 +19,7 @@ Exalatic.com
 **The objective was to develop Attractive Website Design for Exalatic.com.**
 <br>
 <br>
-![YouTube](https://www.youtube.com/watch?v=zlQFir4VW7U)
+[YouTube](https://www.youtube.com/watch?v=zlQFir4VW7U)
 <hr>
 
 CONTACT ME @ 
