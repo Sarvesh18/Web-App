@@ -28,7 +28,7 @@ Designs & Prototypes:
 ![Technomentum17](https://github.com/Sarvesh18/WebApp/blob/master/AICTE%20(SmartIndiaHackathon17%20%26%20Technomentum17)/Technomentum17.jpg)
 
 
-CONTACT ME @ 
+Get IN Touch
 ------------
 >Web : https://sarvesh18.github.com/ <br>
 >Email : sarvesh.singh18@hotmail.com <br/>

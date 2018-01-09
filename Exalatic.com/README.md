@@ -25,9 +25,10 @@ Bootstrap <br>
 
 Designs & Prototypes:
 ---------------------
+![Exalatic](https://github.com/Sarvesh18/WebApp/blob/master/Exalatic.com/Exalatic.png)
 
 
-CONTACT ME @ 
+Get IN Touch 
 ------------
 >Web : https://sarvesh18.github.com/ <br>
 >Email : sarvesh.singh18@hotmail.com <br/>

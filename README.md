@@ -11,7 +11,7 @@ Smart India Hackathon17 & Technomentum17
 **The objective was to develop Attractive Website Design with Innovative Ideas.**
 <br>
 <br>
-[YouTube](https://www.youtube.com/watch?v=zlQFir4VW7U)
+![Technomentum17](https://github.com/Sarvesh18/WebApp/blob/master/AICTE%20(SmartIndiaHackathon17%20%26%20Technomentum17)/Technomentum17.jpg)
 <hr>
 
 Exalatic.com
@@ -19,10 +19,10 @@ Exalatic.com
 **The objective was to develop Attractive Website Design for Exalatic.com.**
 <br>
 <br>
-[YouTube](https://www.youtube.com/watch?v=zlQFir4VW7U)
+![Exalatic](https://github.com/Sarvesh18/WebApp/blob/master/Exalatic.com/Exalatic.png)
 <hr>
 
-CONTACT ME @ 
+Get IN Touch 
 ------------
 >Web : https://sarvesh18.github.com/ <br>
 >Email : sarvesh.singh18@hotmail.com <br/>
