@@ -7,11 +7,12 @@ Problem Statement:
 
 Project Link:
 -------------
-[YouTube](https://www.youtube.com/watch?v=vMwGhtjUtv8)
+[YouTube](https://www.youtube.com/watch?v=)
 
 
 Codes & Resources:
 ------------------
+[Github](https://github.com/Sarvesh18/imad-2016-app)
 
 
 Tools & Technologies:
@@ -21,6 +22,7 @@ CSS <br>
 Javascript <br>
 Express.js <br>
 Node.js <br>
+PostgreSQL <br>
 
 
 Designs & Prototypes:
@@ -29,8 +31,7 @@ Designs & Prototypes:
 
 Get IN Touch 
 ------------
->Web : https://sarvesh18.github.com/ <br>
->Email : sarvesh.singh18@hotmail.com <br/>
->Github : https://github.com/Sarvesh18 <br/>
->Twitter : https://twitter.com/sarvesh_smcs2 <br/>
->LinkedIn : https://www.linkedin.com/in/sarvesh18 <br/>
+Web : https://sarvesh18.github.io <br>
+Email : sarvesh.singh18@hotmail.com <br>
+Github : https://www.github.com/sarvesh18 <br>
+LinkedIn : https://www.linkedin.com/in/sarvesh18 <br>

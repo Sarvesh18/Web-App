@@ -7,7 +7,7 @@ Problem Statement:
 
 Project Link:
 -------------
-[YouTube](https://www.youtube.com/watch?v=vMwGhtjUtv8)
+![Technomentum17](https://github.com/Sarvesh18/Web-App/blob/master/AICTE%20(SmartIndiaHackathon17%20%26%20Technomentum17)/Technomentum17.jpg)
 
 
 Codes & Resources:
@@ -25,13 +25,12 @@ MySql <br>
 
 Designs & Prototypes:
 ---------------------
-![Technomentum17](https://github.com/Sarvesh18/WebApp/blob/master/AICTE%20(SmartIndiaHackathon17%20%26%20Technomentum17)/Technomentum17.jpg)
+![Technomentum17](https://github.com/Sarvesh18/Web-App/blob/master/AICTE%20(SmartIndiaHackathon17%20%26%20Technomentum17)/Technomentum17.jpg)
 
 
-Get IN Touch
+Get IN Touch 
 ------------
->Web : https://sarvesh18.github.com/ <br>
->Email : sarvesh.singh18@hotmail.com <br/>
->Github : https://github.com/Sarvesh18 <br/>
->Twitter : https://twitter.com/sarvesh_smcs2 <br/>
->LinkedIn : https://www.linkedin.com/in/sarvesh18 <br/>
+Web : https://sarvesh18.github.io <br>
+Email : sarvesh.singh18@hotmail.com <br>
+Github : https://www.github.com/sarvesh18 <br>
+LinkedIn : https://www.linkedin.com/in/sarvesh18 <br>
