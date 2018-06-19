@@ -2,7 +2,7 @@ Introduction to Mobile Application Development(IMAD)-NPTEL & Hasura
 -------------------------------------------------------------------
 Problem Statement:
 ------------------
-**The objective was to develop Blogging Website Design with Personal Profile.**
+**The objective was to develop Attractive Website Design for Blogging with Personal Portfolios.**
 
 
 Project Link:

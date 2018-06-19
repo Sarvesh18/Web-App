@@ -2,7 +2,7 @@ Smart India Hackathon17 & Technomentum17
 ----------------------------------------
 Problem Statement:
 ------------------
-**The objective was to develop Attractive Website Design with Innovative Ideas.**
+**The objective was to develop Attractive Website Design for AICTE with Innovative Ideas.**
 
 
 Project Link:

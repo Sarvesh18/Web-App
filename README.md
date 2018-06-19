@@ -12,10 +12,10 @@ Node.js
 -------
 Introduction to Mobile Application Development(IMAD)-NPTEL & Hasura
 -------------------------------------------------------------------
->**The objective was to develop Attractive Website Design for Blogging with Personal Portfolio.**
+>**The objective was to develop Attractive Website Design for Blogging with Personal Portfolios.**
 ><br>
 ><br>
->[YouTube](https://www.youtube.com/watch?v=zlQFir4VW7U)
+>[YouTube](https://www.youtube.com/watch?v=)
 ><hr>
 
 Get IN Touch 
